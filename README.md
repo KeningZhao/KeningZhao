@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KeningZhao
+- 👋 Hi, I’m @KNZ
 - 👀 I’m interested in all sorts of challenging work
 - 🌱 I’m currently learning Python
 
